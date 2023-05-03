@@ -1,2 +1,4 @@
 # matafuegos3002
-git hub trabajo grupal
+Ivo Cappetto
+Marcos Antonio
+Lisandro Chavez
